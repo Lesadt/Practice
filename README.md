@@ -1,2 +1,2 @@
 # Practice
-School Projects on small stuff to try new skills.
+School Projects and small stuff to try new skills.
